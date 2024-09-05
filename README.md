@@ -44,6 +44,7 @@ The BizNest color palette is essential to maintaining our brand identity. The pr
 
 <br/>
 
+
 ## Typography
 The typography for BizNest should be clean, modern, and legible. The typeface used in the logo was Aceh.
 
