@@ -30,6 +30,7 @@ The BizNest logo design provided is the intellectual property of Ms. Medina and 
 ### 5. App Icon
 - The app icon is a specific adaptation of the logomark designed to work effectively in app interfaces, ensuring visibility and recognizability in various sizes.
 
+<br/>
 
 ## Color Palette
 The BizNest color palette is essential to maintaining our brand identity. The primary colors are:
