@@ -14,7 +14,7 @@
 <br/>
 
 ## Disclaimer
-The BizNest logo design provided is the intellectual property of Ms. Medina and groupmates startup project. It is intended for use in the context of branding and marketing materials related to BizNest. Unauthorized use, reproduction, or modification of the logo without explicit permission is prohibited. All rights to the logo and its associated design elements are reserved. 
+The BizNest logo design provided is the intellectual property of Ms. Medina and her group mates' startup project. It is intended for use in the context of branding and marketing materials related to BizNest. Unauthorized use, reproduction, or modification of the logo without explicit permission is prohibited. All rights to the logo and its associated design elements are reserved. 
 
 <br/>
 
