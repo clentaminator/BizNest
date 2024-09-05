@@ -35,10 +35,10 @@ The BizNest logo design provided is the intellectual property of Ms. Medina and 
 ## Color Palette
 The BizNest color palette is essential to maintaining our brand identity. The primary colors are:
 
-* Coral Blue `#B9D5FD`
-* Dark Pastel Blue `#709FDC`
-* Cobalt `#274684`
-* Midnight `#071739`
+* Coral Blue: `#B9D5FD`
+* Dark Pastel Blue: `#709FDC`
+* Cobalt: `#274684`
+* Midnight: `#071739`
 
 > [!IMPORTANT]
 > Use these colors consistently across all materials to ensure brand cohesion.
